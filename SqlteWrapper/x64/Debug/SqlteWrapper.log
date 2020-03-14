@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\shlom\source\repos\SqlteWrapper\src\sqlite3pp.ipp(281,79): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shlom\source\repos\SqlteWrapper\src\sqlite3pp.ipp(328,118): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shlom\source\repos\SqlteWrapper\src\sqlite3pp.ipp(338,120): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+  sqlite3.c
+  SqlteWrapper.vcxproj -> C:\Users\shlom\source\repos\SqlteWrapper\x64\Debug\SqlteWrapper.exe
